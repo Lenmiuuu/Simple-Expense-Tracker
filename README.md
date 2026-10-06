@@ -1,4 +1,4 @@
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad079653-148a-4673-a1df-c4ad9f542f8b" />
 <h1 align=center>
   DiBiLi - Divide it. Budget it. Live easy (Expense Tracker) 📈📊
 </h1>
@@ -39,7 +39,11 @@ This is a simple desktop application built with Python and Tkinter for tracking 
 6. **Low Balance Alert:**
     - If your balance drops below $500, a warning message will pop up.
 
-## Sample Output
+## Newest Interface
+
+
+
+## Past Interface
   <img src="https://github.com/Lenmiuuu/Simple-Expense-Tracker/blob/main/Sample/1.2.png" width="380" height="360"> <img src="https://github.com/Lenmiuuu/Simple-Expense-Tracker/blob/main/Sample/2.2.png" width="380" height="360">
   <img src="https://github.com/nickichann01/Simple-Expense-Tracker/blob/main/Sample/3.2.png" width="380" height="360">
   <img src="https://github.com/nickichann01/Simple-Expense-Tracker/blob/main/Sample/4.2.png" width="380" height="360">
