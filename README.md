@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad079653-148a-4673-a1df-c4ad9f542f8b" />
+
 <h1 align=center>
   DiBiLi - Divide it. Budget it. Live easy (Expense Tracker) 📈📊
 </h1>
